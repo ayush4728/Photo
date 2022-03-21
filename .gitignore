@@ -1,0 +1,10 @@
+# Python extra files
+/.vscode
+/__pycache__
+/.pylintrc
+
+# All images in the main directory
+/*.png
+/*.jpg
+/*.jpeg
+/*.svg
